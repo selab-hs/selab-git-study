@@ -30,11 +30,12 @@ Git 명령어에 익숙하지 않더라도 간단한 인터페이스로 Git을 �
 
 1. **내 컴퓨터로 가져오고 싶은 Github에 있는 `Code` 버튼을 눌러 URL을 복사해줍니다.** 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/28c430ef-f188-4a5c-9e75-931f4edaa710/Untitled.png)
+![image1](https://user-images.githubusercontent.com/101298499/235932263-3cef7159-ef93-4ff6-8012-cca85d35d903.png)
+
 
 1. **Sourcetree 실행 후 +버튼을 눌러 Clone 버튼을 눌러줍니다.**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d6f1d063-acb8-4eb6-ad01-d9b46570199f/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/101298499/235932467-f5020939-77a7-4c5c-9c97-8ac1c17cc842.png)
 
 1. `**소스 경로 / URL :` 에 복사한 URL을 넣어줍시다.**
     
@@ -43,7 +44,7 @@ Git 명령어에 익숙하지 않더라도 간단한 인터페이스로 Git을 �
     `**이름:` 은 프로젝트명(폴더명)입니다.**
     
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a74b4487-4517-4d1c-babe-b9b1b247ab2a/Untitled.png)
+![Untitled (1)](https://user-images.githubusercontent.com/101298499/235932479-9e5ec61f-05d3-4cae-ab6c-2bb6e3c4beb8.png)
 
 ## 3. git branch 방법
 
@@ -51,19 +52,19 @@ Git 명령어에 익숙하지 않더라도 간단한 인터페이스로 Git을 �
 
 천천히 잘 따라오셨다면 아래와 같은 상황일 겁니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ed6a4708-bc5a-4455-b1b6-7243f249f58c/Untitled.png)
+![Untitled (2)](https://user-images.githubusercontent.com/101298499/235932484-acd78f28-c964-4019-b2a2-23636f13dc6b.png)
 
 1. `브랜치` 버튼 눌러줍시다.
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6723334a-7169-4ac9-82d2-b8fa48ca2de0/Untitled.png)
-    
-2. `새 브린치:` 에 `본인 이름 / working` 적어줍시다. `브랜치 생성` 클릭
+![Untitled (3)](https://user-images.githubusercontent.com/101298499/235932489-9cdb9256-d80c-45db-9610-d34bf89a6920.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7fe78413-8981-4601-b833-54916fb867c8/Untitled.png)
+2. `새 브랜치:` 에 `본인 이름 / working` 적어줍시다. `브랜치 생성` 클릭
+
+![Untitled (4)](https://user-images.githubusercontent.com/101298499/235932500-c342823d-a19a-4ce4-b2e7-158403950c5c.png)
 
 우와 브랜치가 생겼어요!
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f899467c-8b42-49ce-b2f1-a41e2f0a86d7/Untitled.png)
+![Untitled (5)](https://user-images.githubusercontent.com/101298499/235932512-d1f5d96a-00ba-45e9-9147-d6297aeefdcc.png)
 
 ## 4. git commit 방법
 
@@ -75,11 +76,17 @@ Git 명령어에 익숙하지 않더라도 간단한 인터페이스로 Git을 �
 2. `모두 스테이지에 올리기` 눌러줍시다. (스테이지에 올린다는 것은 커밋하기전에 커밋할 파일들을 선택하는 과정입니다.)
 3. `커밋` 눌러줍시다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a85b9d69-091c-40bb-8e44-60c151cc8b1e/Untitled.png)
+![Untitled (6)](https://user-images.githubusercontent.com/101298499/235932518-f8116f4d-ce01-4d31-ad9f-89e6f8a64781.png)
 
 - 본인 닉네임 아래에 textfield가 있을텐데, 커밋 내용을 적어주는 부분입니다.
 - READ.md를 수정했기 때문에 저는 `update README.md` 라고 적어줬습니다.
 
 커밋 눌러줍시다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1315d4c9-76bb-43aa-b55e-95188423f177/Untitled.png)
+![Untitled (7)](https://user-images.githubusercontent.com/101298499/235932524-6663974b-d585-4c5b-84f0-17b7bb2839e4.png)
+
+커밋 성공
+
+![Untitled (8)](https://user-images.githubusercontent.com/101298499/235932535-db11c7cb-9aca-414b-9568-fdddad42ffa1.png)
+
+이런 방식으로 github 이용하시면 됩니다. 감사합니다.
